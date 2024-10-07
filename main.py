@@ -42,7 +42,15 @@ whisper_languages = {
     "Russian": "ru",
     "Chinese": "zh",
     "Japanese": "ja",
-    "Korean": "ko"
+    "Korean": "ko",
+    "Arabic": "ar",
+    "Greek": "el",
+    "Swahili": "sw",
+    "Hebrew": "he", 
+    "Hindi": "hi",
+    "Thai": "th",
+    "Turkish": "tr",
+    "Urdu": "ur"
 }
 
 # DeepL language codes
@@ -56,7 +64,11 @@ deepl_languages = {
     "Dutch": "NL",
     "Russian": "RU",
     "Chinese": "ZH",
-    "Japanese": "JA"
+    "Japanese": "JA",
+    "Greek": "EL",
+    "Korean": "KO",
+    "Turkish": "TR",
+    "Arabic": "AR"
 }
 
 def extract_audio(video_path, output_path, compress=True, quality=5):

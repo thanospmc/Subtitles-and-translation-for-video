@@ -2,7 +2,7 @@
 
 This is a simple web app that uses the [OpenAI Whisper](https://platform.openai.com/docs/guides/speech-to-text) and [DeepL](https://www.deepl.com/en/pro-api/) APIs for generating and translating subtitles for videos in .srt format.
 
-![image of the web app](./images/screenshot.jpg)
+![image of the web app](https://github.com/thanospmc/Subtitles-and-translation-for-video/blob/main/images/screenshot.jpeg)
 
 ### How to install and use
 1. Download the source code or clone the repository and install the requirements:

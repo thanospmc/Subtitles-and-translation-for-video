@@ -1,0 +1,3 @@
+Within the virtual environment:
+
+uvicorn main:app --reload
